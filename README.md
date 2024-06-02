@@ -80,4 +80,4 @@ pause
 Nếu bạn có bất kỳ cải tiến nào hoặc phát hiện lỗi, vui lòng gửi một yêu cầu kéo (pull request) hoặc báo cáo lỗi (issue) trên GitHub repository của dự án này.
 
 ### Giấy phép
-Script này được phát hành dưới giấy phép [MIT](https://choosealicense.com/licenses/mit/).
+Script này được phát hành dưới giấy phép [MIT](https://github.com/nhanngocduong/Delete-Windows-Temp-Files-CMD?tab=MIT-1-ov-file).
